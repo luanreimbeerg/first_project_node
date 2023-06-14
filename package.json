@@ -1,0 +1,17 @@
+{
+  "name": "first_project_node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/luanreimbeerg/first_project_node.git",
+  "author": "Luan Trajano <luan.trajano@biz.com.br>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
